@@ -1,0 +1,158 @@
+@media (max-width: 1200px)
+    .menu
+        &_item
+            padding-right: 10px
+        &_link
+            font-size: 13px
+    .promo
+        &_header
+            font-size: 50px
+    .card
+        align-items: flex-start
+        &_title, &_descr
+            width: 300px
+@media (max-width: 991px)
+    .menu
+        &_link
+            font-size: 10px
+    .subheader
+        &_logo
+            img
+                width: 100%
+        &_official
+            font-size: 11px
+        &_phone
+            font-size: 18px
+        &_btn
+            height: 40px
+            width: 140px
+            font-size: 12px
+    .card
+        flex-direction: column
+        align-items: center
+        &_text
+            margin-top: 10px
+            text-align: center
+    .subpromo
+        &_descr
+            font-size: 34px
+    .mobile
+        &_card
+            width: 230px
+        &_name
+            font-size: 20px
+@media (max-width: 776px)
+    .menu
+        position: fixed
+        flex-direction: column
+        justify-content: center
+        align-items: center
+        top: 0
+        left: -100%
+        width: 50%
+        height: 100vh
+        padding: 20px 15px
+        background-color: rgba(0, 0, 0, .8)
+        transition: 0.6s all
+        &_active
+            left: 0
+        &_item
+            padding-right: 0
+            border: none
+            margin: 10px 0px
+        &_link
+            font-size: 20px
+    .hamburger
+        display: block
+        position: absolute
+        right: 30px
+        top: 50%
+        transform: translateY(-50%)
+        width: 26px
+        height: 12px
+
+        span
+            display: block
+            height: 2px
+            width: 100%
+            background-color: #ffffff
+            margin-bottom: 2px
+            transition: 0.5s all
+        &_active
+            span
+                &:nth-child(1)
+                    transform: translateY(4px) rotate(-45deg)
+                &:nth-child(2)
+                    display: none
+                &:nth-child(3)
+                    transform: translateY(1px) rotate(45deg)
+    .promo
+        &_header
+            font-size: 50px
+            line-height: 50px
+    .card
+        &_descr
+            width: 260px
+    .car_photo
+        img
+            width: 100%
+    .footer
+        &_items
+            flex-direction: column
+            margin-right: 0px
+            margin-top: 15px
+            &_icons
+                margin: 0 auto
+            &_a
+                display: block
+                margin-top: 15px
+            &_mobile
+                margin-top: 15px
+    .world
+        width: 100%
+    .subheader
+        &_btn
+            display: none
+        
+@media (max-width: 576px)
+    .card
+        &_icon
+            margin-left: 20px
+        &_descr
+            margin-left: 20px
+        &_title
+    .menu
+        text-align: center
+    .subheader
+        &_official, &_call, &_btn
+            display: none
+        &_phone
+            margin-top: 24px
+    .promo
+        &_header
+            font-size: 40px
+            line-height: 40px
+        &_subheader
+            font-size: 20px
+        &_descr
+            line-height: 18px
+            font-size: 14px
+        &_btn
+            height: 50px
+            width: 200px
+            font-size: 12px
+
+    .require
+        &_list
+            padding-left: 0px
+            width: 400px
+
+    .subpromo
+        &_descr
+            font-size: 30px
+    .footer
+        &_divider
+            width: 80%
+   
+ 
+    
