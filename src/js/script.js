@@ -29,3 +29,10 @@ const newBranch2 = "branch test 2";
 const newBranch32 = "branch test 23";
 
 const ssdnewBranch32 = "branch test 23";
+const newBranch = "branch test 1";
+
+const newBranch2 = "branch test 2";
+
+const newBranch32 = "branch test 23";
+
+const ssdnewBranch32 = "branch test 23";
