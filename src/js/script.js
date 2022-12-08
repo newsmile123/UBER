@@ -25,7 +25,10 @@ const newBranch = "branch test 1";
 
 const newBranch2 = "branch test 2";
 const testwerwer = "";
+<<<<<<< HEAD
 const newtestetwerew = "";
+=======
+>>>>>>> develop
 const newBranch32 = "branch test 23";
 
 const ssdnewBranch32 = "branch test 23";
