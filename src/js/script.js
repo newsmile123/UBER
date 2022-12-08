@@ -20,7 +20,10 @@ const test = "test";
 
 const test1 = "test";
 
+<<<<<<< HEAD
 const ssdnewBranch32 = "branch test 23";
+=======
+>>>>>>> b511461... new commit
 const newBranch = "branch test 1";
 
 const newBranch2 = "branch test 2";
