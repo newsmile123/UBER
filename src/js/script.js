@@ -35,6 +35,5 @@ const newtestetwerew = "";
 const newBranch32 = "branch test 23";
 
 const ssdnewBranch32 = "branch test 23";
-const ssdnewBch32 = "branch test 23";
-const ssdBranch32 = "branch test 23";
-const ssdnewBranc = "branch test 23";
+const Branch32 = "branch test 23";
+const Branch3 = "branch test 23";
