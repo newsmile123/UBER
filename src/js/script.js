@@ -38,6 +38,9 @@ const ssdnewBranch32 = "branch test 23";
 const Branch32 = "branch test 23";
 const Branch3 = "branch test 23";
 second commit
+<<<<<<< HEAD
 tretii commit
 tretii commit
 tretii commit
+=======
+>>>>>>> a006638... RN-42
