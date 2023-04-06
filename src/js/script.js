@@ -14,6 +14,9 @@ const test = "test";
 const test2 = "test";
 
 const test1 = "test";
+const test = "test";
+
+const test1 = "test";
 
 <<<<<<< HEAD
 const ssdnewBranch32 = "branch test 23";
