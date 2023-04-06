@@ -11,6 +11,7 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 const test = "test";
+const test2 = "test";
 
 const test1 = "test";
 
